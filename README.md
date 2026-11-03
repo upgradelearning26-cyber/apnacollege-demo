@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository
 <br>
-Author: Vijay Vishwakarma
+Author: Vijay Vishwakarma (Apna college)
